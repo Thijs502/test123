@@ -60,7 +60,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
             mainAxisSize: MainAxisSize.max,
             children: [
               Text(
-                'Hello World',
+                'Bozeman123456789',
                 style: FlutterFlowTheme.of(context).bodyMedium,
               ),
             ],
